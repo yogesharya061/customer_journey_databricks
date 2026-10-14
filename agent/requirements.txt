@@ -1,0 +1,5 @@
+mcp>=1.24,<2
+databricks-sdk>=0.60,<1
+databricks-mcp
+databricks-openai
+openai-agents

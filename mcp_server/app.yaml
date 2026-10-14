@@ -1,0 +1,6 @@
+command: ['python', 'server.py']
+env:
+  - name: CJ_CATALOG
+    value: workspace
+  - name: DATABRICKS_WAREHOUSE_ID
+    valueFrom: sql-warehouse
